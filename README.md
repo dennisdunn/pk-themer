@@ -1,7 +1,11 @@
 # Protokuda Themer
  > Make and check [Protokuda](https://github.com/dennisdunn/protokuda) themes, then export them as a theme file.
 
-[Open the themer](https://dennisdunn.github.io/pk-themer/)
+> [!IMPORTANT]
+> **Moved.** The themer is now part of [Protokuda Studio](https://github.com/dennisdunn/pk-studio), together
+> with the designer, as an installable app: [open the themer there](https://dennisdunn.github.io/pk-studio/#/themer).
+> Its history continues in that repo under `src/themer/`, and themes autosaved here carry over. This repo is
+> archived.
 
 A Protokuda theme is a set of `--pk-*` custom properties. The themer edits them against a sample screen
 rendered with the real `protokuda.css`, checks the pairs that sit on each other for WCAG AA contrast, and
